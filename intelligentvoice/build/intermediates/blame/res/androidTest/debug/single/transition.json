@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\androidTest\\debug\\transition\\activity_slide.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\transition\\activity_slide.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\androidTest\\debug\\transition\\activity_fade.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\transition\\activity_fade.xml"
+    }
+]

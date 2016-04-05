@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 组件:图文单图 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <include
+        android:id="@+id/in_theme_type"
+        layout="@layout/item_discover_theme_type" />
+
+    <!-- 专题头图 -->
+    <ImageView
+        android:id="@+id/iv_img"
+        style="@style/MainImageContent"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_below="@+id/in_theme_type"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp" />
+    <!-- 标题 -->
+    <TextView
+        android:id="@+id/tv_title"
+        style="@style/MainTitle"
+        android:layout_below="@+id/iv_img"
+        android:layout_margin="16dp"
+        android:text="标题" />
+    <!-- 内容 -->
+    <TextView
+        android:id="@+id/tv_description"
+        style="@style/MainContent"
+        android:layout_below="@+id/tv_title"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:text="内容" />
+
+    <include
+        layout="@layout/include_bottom_collect_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_description" />
+</RelativeLayout>

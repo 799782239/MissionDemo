@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_exit.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\activity_close_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_enter.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\activity_open_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\layout_anim_translate.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\layout_anim_translate.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\translate_display.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\translate_display.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_display.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\alpha_display.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\layout_anim_alpha.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\layout_anim_alpha.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_enter.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\activity_close_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_exit.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\activity_open_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\anim\\slide_in.xml"
+    }
+]

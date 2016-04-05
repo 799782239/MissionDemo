@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xxhdpi-v4\\bg_empty_group.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_empty_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xxhdpi-v4\\bg_empty_topic.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_empty_topic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xxhdpi-v4\\bg_empty_discover.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_empty_discover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xxhdpi-v4\\bg_empty_search.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_empty_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xxhdpi-v4\\bg_empty_url_error.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_empty_url_error.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xxhdpi-v4\\bg_empty_no_network.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_empty_no_network.png"
+    }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yanqijs.missiondemo.MyMissionActivity">
+
+    <include
+        android:id="@+id/inc_toolbar"
+        layout="@layout/inc_toolbar" />
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/mymission_tablayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/inc_toolbar"
+        android:elevation="5dp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/mymission_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/mymission_tablayout"/>
+
+</RelativeLayout>

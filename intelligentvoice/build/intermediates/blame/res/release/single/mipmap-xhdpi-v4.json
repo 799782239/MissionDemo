@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_go_search.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_go_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\sun.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\sun.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_pic_selected.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_pic_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_btn_speak.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_btn_speak.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_volume_changed_2.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_volume_changed_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\sky.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\sky.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\buildings.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\buildings.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_mic_inner_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_mic_inner_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_mic.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\shadow_bottom.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\shadow_bottom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_menu_search.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_closed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_closed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_volume_changed_4.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_volume_changed_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_pic.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_pic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\rate_star_small_on_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\rate_star_small_on_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_volume_changed_0.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_volume_changed_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_wechat_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\mipmap-xhdpi-v4\\ic_wechat_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_voice.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_voice.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\rate_star_small_half_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\rate_star_small_half_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_clear_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_pic_dir.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_pic_dir.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_volume_changed_3.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_volume_changed_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_menu_back.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_menu_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\shadow_left.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\shadow_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_new_msg_x.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_new_msg_x.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_del_all.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_del_all.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_voice_pic.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_voice_pic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_volume_changed_1.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_volume_changed_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\rate_star_small_off_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\rate_star_small_off_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_wechat_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\mipmap-xhdpi-v4\\ic_wechat_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_new_msg_y.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_new_msg_y.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_plane.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_plane.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_default_image.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_default_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_volume_changed_5.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_volume_changed_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_menu_overflow.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_menu_overflow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_dir_choose.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_dir_choose.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_mic_inner_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\src\\main\\res\\mipmap-xhdpi\\ic_mic_inner_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\shadow_right.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\intelligentvoice\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\shadow_right.png"
+    }
+]

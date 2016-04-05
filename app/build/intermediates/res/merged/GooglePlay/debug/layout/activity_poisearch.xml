@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/include_toolbar" />
+
+    <com.tongban.corelib.widget.view.LoadMoreListView
+        android:id="@+id/lv_location"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@null" />
+
+
+</RelativeLayout>

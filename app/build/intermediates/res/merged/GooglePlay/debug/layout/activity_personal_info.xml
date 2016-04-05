@@ -1,0 +1,130 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/include_toolbar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:layout_marginTop="8dp"
+        android:background="@color/weak_grey"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/ll_update_user_portrait"
+                style="@style/ChatSettingLayout"
+                android:layout_height="96dp">
+
+                <com.tongban.corelib.widget.view.CircleImageView
+                    android:id="@+id/iv_user_icon"
+                    android:layout_width="64dp"
+                    android:layout_height="64dp"
+                    android:layout_centerVertical="true" />
+
+                <TextView
+                    android:id="@+id/tv_group_name"
+                    style="@style/ChatSettingRightText"
+                    android:layout_alignParentTop="true"
+                    android:text="修改头像"
+                    android:textColor="@drawable/selector_text_color" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/ll_nickname"
+                style="@style/ChatSettingLayout"
+                android:minHeight="48dp">
+
+                <TextView
+                    style="@style/ChatSettingLeftText"
+                    android:text="昵称" />
+
+                <TextView
+                    android:id="@+id/tv_user_name"
+                    style="@style/ChatSettingRightText" />
+            </RelativeLayout>
+
+            <RelativeLayout style="@style/ChatSettingLayout">
+
+                <TextView
+                    style="@style/ChatSettingLeftText"
+                    android:text="@string/phone_num" />
+
+                <TextView
+                    android:id="@+id/tv_phone_num"
+                    style="@style/ChatSettingRightText" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/ll_sex"
+                style="@style/ChatSettingLayout"
+                android:minHeight="48dp">
+
+                <TextView
+                    style="@style/ChatSettingLeftText"
+                    android:text="宝宝性别" />
+
+                <TextView
+                    android:id="@+id/tv_child_sex"
+                    style="@style/ChatSettingRightText" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/ll_child_age"
+                style="@style/ChatSettingLayout"
+                android:minHeight="48dp">
+
+                <TextView
+                    style="@style/ChatSettingLeftText"
+                    android:text="宝宝年龄" />
+
+                <TextView
+                    android:id="@+id/tv_child_age"
+                    style="@style/ChatSettingRightText" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/ll_child_constellation"
+                style="@style/ChatSettingLayout"
+                android:minHeight="48dp">
+
+                <TextView
+                    style="@style/ChatSettingLeftText"
+                    android:text="宝宝星座" />
+
+                <TextView
+                    android:id="@+id/tv_child_constellation"
+                    style="@style/ChatSettingRightText" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                style="@style/ChatSettingLayout"
+                android:minHeight="48dp"
+                android:visibility="gone">
+
+                <TextView
+                    style="@style/ChatSettingLeftText"
+                    android:text="宝宝幼儿园" />
+
+                <TextView
+                    android:id="@+id/tv_chile_school"
+                    style="@style/ChatSettingRightText" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

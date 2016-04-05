@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_join_btn_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_join_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_bg_editinput.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_bg_editinput.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_group_icon_pressed_light_green.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_group_icon_pressed_light_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_label_pressed_light_green.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_label_pressed_light_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\cpb_background.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.github.dmytrodanylyk.circular-progress-button\\library\\1.1.3\\res\\drawable\\cpb_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_public_service_unfollow_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_public_service_unfollow_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_transparent_to_gray.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_transparent_to_gray.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_textfield_search_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_join_btn_enabled.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_join_btn_enabled.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_answer_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_answer_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_group_icon_pressed_yellow.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_group_icon_pressed_yellow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_bg_menu.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_bg_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_stroke_yellow.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_stroke_yellow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_label_pressed_deep_purple.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_label_pressed_deep_purple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_label_pressed_orange.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_label_pressed_orange.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corner_transparent_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corner_transparent_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_top_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_top_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_grey_bg_2.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_grey_bg_2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_bottom_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_bottom_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\touxiang.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\touxiang.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_corners_bottom_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_corners_bottom_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_btn_bg_deep_purple.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_btn_bg_deep_purple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\progress_medium.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\progress_medium.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_voice.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_voice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_label_pressed_light_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_label_pressed_light_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_group_icon_light_green.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_group_icon_light_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_corner_transparent_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_corner_transparent_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_hands_free_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_hands_free_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_ic_keyboard.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_ic_keyboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_corner_grey_to_grey.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_corner_grey_to_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\process_dialog_background.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\process_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_group_icon_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_group_icon_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\mark.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\mark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_top_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_top_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_send.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_label_bg_orange.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_label_bg_orange.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_topic_voice_play.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_topic_voice_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_item_list_white.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_item_list_white.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_send_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_send_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_an_voice_receive.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_an_voice_receive.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_preview_checkbox.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_preview_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_ratingbar_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_ratingbar_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\ic_mic_inner.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\drawable\\ic_mic_inner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_corner_white_to_grey.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_corner_white_to_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_follow_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_follow_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_item_list_grey.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_item_list_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_group_icon_yellow.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_group_icon_yellow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_voice_result_topic_type.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\drawable\\shape_voice_result_topic_type.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_white_bg_2.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_white_bg_2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_text_cursor.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_text_cursor.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_an_voice_sent.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_an_voice_sent.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_label_bg_yellow.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_label_bg_yellow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_rainbow_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_rainbow_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_circle_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_circle_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_label_bg_light_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_label_bg_light_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_follow_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_follow_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_ic_extend.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_ic_extend.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_grey_1_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_grey_1_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_refuse_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_refuse_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_corners_top_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_corners_top_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_group_icon_light_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_group_icon_light_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_switch_btn.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_switch_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_progress_medium_red.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_progress_medium_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_seapk_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\drawable\\shape_seapk_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_label_bg_deep_purple.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_label_bg_deep_purple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_btn_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_product_collect.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_product_collect.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_finish_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_finish_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\ratingbar_read_only.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\drawable\\ratingbar_read_only.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_label_bg_red.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_label_bg_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_bg_light_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_bg_light_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_group_icon_pressed_pink.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_group_icon_pressed_pink.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_integral_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_integral_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_group_icon_pressed_light_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_group_icon_pressed_light_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_corner_white_to_grey_2.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_corner_white_to_grey_2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_stroke_deep_purple.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_stroke_deep_purple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_label_pressed_yellow.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_label_pressed_yellow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\mission_button.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\mission_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_send_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_send_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_over_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_over_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_label_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_label_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_bottom_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_bottom_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_stroke_green.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_stroke_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_ed_public_service_search_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_ed_public_service_search_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_photo_checkbox.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_photo_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_dialog_text_change.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_dialog_text_change.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_group_icon_deep_purple.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_group_icon_deep_purple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_send_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_send_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_join_btn_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_join_btn_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_group_icon_orange.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_group_icon_orange.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_ic_smiley.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_ic_smiley.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_btn_bg_light_green.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_btn_bg_light_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_join_btn_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_join_btn_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_btn_bg_yellow.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_btn_bg_yellow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_label_bg_light_green.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_label_bg_light_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_btn_bg_pink.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_btn_bg_pink.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_group_icon_pressed_red.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_group_icon_pressed_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_public_service_enter_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_public_service_enter_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_badge_white_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_badge_white_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_white_to_gray.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_white_to_gray.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\ic_wechat.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\ic_wechat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_label_pressed_red.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_label_pressed_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_transparent_bg_4.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_transparent_bg_4.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_grey_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_grey_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_btn_bg_light_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_btn_bg_light_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_group_icon_red.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_group_icon_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_stroke_pink.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_stroke_pink.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\progress_horizontal_new.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\progress_horizontal_new.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_btn_bg_red.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_btn_bg_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_follow_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_follow_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_label_pressed_pink.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_label_pressed_pink.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_bg_item.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_bg_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corner_transparent_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corner_transparent_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_label_bg_pink.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_label_bg_pink.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_group_icon_pressed_deep_purple.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_group_icon_pressed_deep_purple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_circle_bg_light_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_circle_bg_light_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\idle_state_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\idle_state_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_group_icon_pink.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\selector_group_icon_pink.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_stroke_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_stroke_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_translucent_grey.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\drawable\\shape_corners_translucent_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\mission.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\mission.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_toolbar_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_toolbar_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_progress_medium_white.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_progress_medium_white.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_volume_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\drawable\\shape_volume_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_ic_voice.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_ic_voice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\ic_extend_plus.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\ic_extend_plus.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_input.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_input.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_corner_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_corner_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\ic_add_img.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\ic_add_img.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_corners_white_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\shape_corners_white_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\rc_btn_sound_off_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\imlib\\unspecified\\res\\drawable\\rc_btn_sound_off_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\selector_text_color.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\drawable\\selector_text_color.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\shape_group_icon_pressed_orange.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\drawable\\shape_group_icon_pressed_orange.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    }
+]

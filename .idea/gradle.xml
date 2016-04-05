@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Users\yanqijs@dangdang.com\Downloads\android-studio-ide-143.2571730-windows\android-studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/apilib" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/corelib" />
+            <option value="$PROJECT_DIR$/daogenerator" />
+            <option value="$PROJECT_DIR$/imlib" />
+            <option value="$PROJECT_DIR$/intelligentvoice" />
+            <option value="$PROJECT_DIR$/mission" />
+            <option value="$PROJECT_DIR$/umengsocialsdk" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/apilib" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/corelib" />
+            <option value="$PROJECT_DIR$/daogenerator" />
+            <option value="$PROJECT_DIR$/imlib" />
+            <option value="$PROJECT_DIR$/intelligentvoice" />
+            <option value="$PROJECT_DIR$/mission" />
+            <option value="$PROJECT_DIR$/umengsocialsdk" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,179 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <!-- 头像-->
+    <com.tongban.corelib.widget.view.CircleImageView
+        android:id="@+id/iv_user_portrait"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="72dp"
+        android:scaleType="centerCrop" />
+
+    <!-- 用户信息布局-->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ll_relationship"
+        android:layout_below="@+id/iv_user_portrait"
+        android:layout_marginTop="24dp"
+        android:gravity="center_horizontal" />
+
+    <com.tongban.corelib.widget.view.indicator.CirclePageIndicator
+        android:id="@+id/lpi_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/vp_container"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/rl_action_parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_user_portrait">
+
+        <Button
+            android:id="@+id/iv_focus"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/selector_follow_icon"
+            android:text="关注"
+            android:textColor="@color/main_black"
+            android:textSize="12sp"
+            android:visibility="gone" />
+
+        <View
+            android:id="@+id/v_refer"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp" />
+
+        <Button
+            android:id="@+id/iv_cancel_focus"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="24dp"
+            android:layout_toLeftOf="@+id/v_refer"
+            android:background="@drawable/selector_corner_transparent_icon"
+            android:text="取消关注"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/iv_private_chat"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="24dp"
+            android:layout_toRightOf="@+id/v_refer"
+            android:background="@drawable/selector_corner_transparent_icon"
+            android:drawableLeft="@mipmap/ic_private_chat"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:text="私聊"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+    <!--底部粉丝布局-->
+    <LinearLayout
+        android:layout_below="@+id/rl_action_parent"
+        android:id="@+id/ll_relationship"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="32dp"
+        android:background="@color/translucent_a10"
+        android:minHeight="56dp"
+        android:orientation="horizontal">
+
+        <!-- 粉丝、关注、话题数量布局-->
+        <LinearLayout
+            android:id="@+id/rl_follow_num"
+            style="@style/UserInfoAttrParent">
+
+            <!-- 粉丝数量布局-->
+            <RelativeLayout style="@style/UserInfoAttrLayout">
+                <!-- 粉丝数量文本-->
+                <TextView
+                    android:id="@+id/tv_follow_num"
+                    style="@style/UserInfoAttr.TopText"
+                    android:text="0" />
+                <!-- 粉丝badge-->
+                <View
+                    android:id="@+id/badge_fans"
+                    style="@style/UserInfoBadge"
+                    android:layout_toRightOf="@+id/tv_follow_num"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_follow"
+                style="@style/UserInfoAttr.BottomText"
+                android:text="@string/follow" />
+
+        </LinearLayout>
+
+        <!--底部关注布局-->
+        <LinearLayout
+            android:id="@+id/rl_fans_num"
+            style="@style/UserInfoAttrParent">
+
+            <!-- 关注数量布局-->
+            <RelativeLayout style="@style/UserInfoAttrLayout">
+                <!-- 关注数量-->
+                <TextView
+                    android:id="@+id/tv_fans_num"
+                    style="@style/UserInfoAttr.TopText"
+                    android:text="0" />
+                <!-- 关注badge-->
+                <View
+                    android:id="@+id/badge_follow"
+                    style="@style/UserInfoBadge"
+                    android:layout_toRightOf="@+id/tv_fans_num"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_fans"
+                style="@style/UserInfoAttr.BottomText"
+                android:text="@string/fans" />
+
+        </LinearLayout>
+
+        <!-- 圈子布局-->
+        <LinearLayout
+            android:id="@+id/rl_group_num"
+            style="@style/UserInfoAttrParent">
+
+            <!-- 圈子数量布局-->
+            <RelativeLayout style="@style/UserInfoAttrLayout">
+                <!-- 圈子数量-->
+                <TextView
+                    android:id="@+id/tv_group_num"
+                    style="@style/UserInfoAttr.TopText"
+                    android:text="0" />
+                <!-- 圈子badge-->
+                <View
+                    android:id="@+id/badge_topic"
+                    style="@style/UserInfoBadge"
+                    android:layout_toRightOf="@+id/tv_group_num"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_group"
+                style="@style/UserInfoAttr.BottomText"
+                android:text="@string/group" />
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

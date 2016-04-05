@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/include_toolbar" />
+
+    <LinearLayout
+        android:id="@+id/ll_history_parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_hot_category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:drawableLeft="@mipmap/ic_topic_history"
+            android:drawablePadding="4dp"
+            android:gravity="center_vertical"
+            android:text="最近搜索"
+            android:textColor="@color/normal_grey" />
+
+        <com.tongban.corelib.widget.view.FlowLayout
+            android:id="@+id/fl_history_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="16dp" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar" />
+
+    <com.tongban.corelib.widget.view.LoadMoreListView
+        android:id="@+id/lv_tips_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:background="@color/weak_grey"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@null"
+        android:scrollbars="none"
+        android:visibility="gone" />
+
+</RelativeLayout>

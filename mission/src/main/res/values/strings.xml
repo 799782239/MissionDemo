@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MissionDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Mr.Feng</string>
+    <string name="mission_time">邀约时间</string>
+    <string name="mission_content">需求详情</string>
+    <string name="mission_title">订单详情</string>
+    <string name="publish_title">发布需求</string>
+    <string name="publish_content_hint">描述一下你的需求</string>
+    <string name="title_activity_judge">JudgeActivity</string>
+    <string name="judge_title">评价</string>
+    <string name="judge_publish">提交评价</string>
+    <string name="mymission_title">我的订单</string>
+    <string name="mymission_accept">接受</string>
+    <string name="mymission_note">美妆</string>
+    <string name="chat_title">chat</string>
+    <string name="main_title">大厅</string>
+    <string name="mission_chat">聊一下</string>
+    <string name="publish_publish">确定发布</string>
+    <string name="main_mymission">我的订单</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_send">发送</string>
+    <string name="content_hint">在这里输入内容</string>
+</resources>

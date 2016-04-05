@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_clip.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_clip.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_main.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_topic_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_topic_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_label.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_label.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_join_group.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_join_group.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_search_poi.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_search_poi.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_photo_album.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_photo_album.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_save.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_save.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_create_topic.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_create_topic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\viewpager_menu.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\menu\\viewpager_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_chat.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_chat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\menu\\menu_search_topic.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\menu\\menu_search_topic.xml"
+    }
+]

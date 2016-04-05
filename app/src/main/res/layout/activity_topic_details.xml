@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/include_toolbar"
+        layout="@layout/include_toolbar" />
+
+    <com.tongban.corelib.widget.view.LoadMoreListView
+        android:id="@+id/lv_reply_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/topic_input"
+        android:layout_below="@+id/include_toolbar"
+        android:background="@color/weak_light_grey"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@null"
+        android:listSelector="@color/transparent"
+        android:scrollbars="none"
+        android:visibility="gone" />
+
+    <com.tongban.im.widget.view.TopicInputView
+        android:id="@+id/topic_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone" />
+
+</RelativeLayout>

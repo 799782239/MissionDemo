@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/weak_grey">
+
+    <TextView
+        android:id="@+id/tv_my_topic"
+        style="@style/UserCenterItem"
+        android:drawableLeft="@mipmap/ic_my_topic"
+        android:text="@string/my_mission" />
+
+    <TextView
+        android:id="@+id/tv_my_collect"
+        style="@style/UserCenterItem"
+        android:layout_below="@+id/tv_my_topic"
+        android:layout_marginTop="1dp"
+        android:drawableLeft="@mipmap/ic_my_collect"
+        android:text="@string/my_collect" />
+
+    <TextView
+        android:id="@+id/tv_settings"
+        style="@style/UserCenterItem"
+        android:layout_below="@+id/tv_my_collect"
+        android:layout_marginBottom="1dp"
+        android:layout_marginTop="1dp"
+        android:drawableLeft="@mipmap/ic_my_settings"
+        android:text="@string/settings" />
+</RelativeLayout>

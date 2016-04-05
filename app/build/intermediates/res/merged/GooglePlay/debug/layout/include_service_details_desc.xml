@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <!-- 功能分割线-->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="48dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/shape_circle_bg_light_blue"
+            android:gravity="center"
+            android:text="详情"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_service_time"
+            style="@style/MainContent"
+            tools:text="时间：想几点就几点。" />
+
+        <TextView
+            android:id="@+id/tv_service_desc"
+            style="@style/MainContent"
+            android:layout_marginTop="16dp"
+            tools:text="这里是我的详细描述，真的很详细，能写很多字的，不信你多写一点试试。" />
+
+    </LinearLayout>
+</LinearLayout>

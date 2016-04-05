@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+
+        <TextView
+            android:id="@+id/tv_phone_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:paddingLeft="16dp"
+            android:text="@string/phone_num"
+            android:textColor="@color/normal_grey" />
+
+        <com.tongban.corelib.widget.view.ClearEditText
+            android:id="@+id/et_input_phone"
+            style="@style/ClearEditTextStyle"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/toolbar"
+            android:layout_toRightOf="@+id/tv_phone_text"
+            android:digits="@string/digits"
+            android:hint="@string/input_register_phone_num"
+            android:inputType="number"
+            android:maxLength="11"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp" />
+
+        <View
+            style="@style/HorizontalLine"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_submit"
+        style="@style/CommonButtonStyle"
+        android:text="@string/next_step" />
+
+</RelativeLayout>

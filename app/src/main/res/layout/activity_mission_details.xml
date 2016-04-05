@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tongban.im.activity.mission.MissionDetailsActivity">
+
+    <include
+        android:id="@+id/inc_toolbar"
+        layout="@layout/include_toolbar" />
+
+
+    <RelativeLayout
+        android:id="@+id/misson_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/inc_toolbar"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:background="@drawable/mission"
+        android:elevation="6dp">
+
+        <RelativeLayout
+            android:id="@+id/misson_user_re"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp">
+
+            <com.tongban.corelib.widget.view.CircleImageView
+                android:id="@+id/iv_user_icon"
+                style="@style/MainImagePortrait"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignTop="@+id/mission_name"
+                android:layout_centerVertical="true" />
+
+            <TextView
+                android:id="@+id/mission_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="16dp"
+                android:layout_toRightOf="@+id/iv_user_icon" />
+
+            <RatingBar
+                android:id="@+id/mission_ratingbar"
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/mission_name"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_toRightOf="@+id/iv_user_icon"
+                android:max="5" />
+
+            <TextView
+                android:id="@+id/rating_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/mission_name"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="4dp"
+                android:layout_toRightOf="@+id/mission_ratingbar"
+                android:background="@drawable/mark" />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/mission_divide1"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/misson_user_re"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:background="@color/colorLightGrey" />
+
+        <RelativeLayout
+            android:id="@+id/mission_mission_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mission_divide1"
+            android:layout_margin="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/mission_time"
+                android:textColor="@color/cardview_dark_background" />
+
+            <TextView
+                android:id="@+id/time_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/mission_divide2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/mission_mission_time"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:background="@color/colorLightGrey" />
+
+        <RelativeLayout
+            android:id="@+id/mission_mission_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mission_divide2"
+            android:layout_margin="16dp">
+
+            <TextView
+                android:id="@+id/mission_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/mission_content"
+                android:textColor="@color/cardview_dark_background" />
+
+            <TextView
+                android:id="@+id/content_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="32dp"
+                android:layout_toRightOf="@+id/mission_content"
+                android:paddingBottom="20dp" />
+        </RelativeLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mission_mission_content"
+            android:layout_margin="16dp" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/frame_btn"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/misson_main"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-30dp"
+        android:background="@drawable/mission_button"
+        android:elevation="7dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="32dp"
+            android:text="@string/mission_chat"
+            android:textColor="@color/colorWhite" />
+    </FrameLayout>
+</RelativeLayout>

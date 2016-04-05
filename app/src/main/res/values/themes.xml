@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.DeepPurple.Base.WindowBackground">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/translucent_a80</item>
+    </style>
+
+    <style name="AppTheme.DeepPurple.Base">
+        <item name="android:textColorHint">@color/normal_grey</item>
+        <item name="buttonBackground">@drawable/selector_btn_bg_deep_purple</item>
+        <item name="createGroupIcon">@drawable/selector_group_icon_deep_purple</item>
+        <item name="labelSelectBG">@drawable/selector_label_bg_deep_purple</item>
+        <item name="progressBarStyle">@style/Widget.ProgressBar.Red</item>
+    </style>
+
+    <style name="AppTheme.DeepPurple.Base.Translucent">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\umengsocialsdk\\build\\intermediates\\res\\merged\\release\\layout-sw550dp-large-v13\\umeng_socialize_post_share.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\umengsocialsdk\\src\\main\\res\\layout-sw550dp-large\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\umengsocialsdk\\build\\intermediates\\res\\merged\\release\\layout-sw550dp-large-v13\\umeng_socialize_titile_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\umengsocialsdk\\src\\main\\res\\layout-sw550dp-large\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\umengsocialsdk\\build\\intermediates\\res\\merged\\release\\layout-sw550dp-large-v13\\umeng_socialize_full_alert_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\umengsocialsdk\\src\\main\\res\\layout-sw550dp-large\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\umengsocialsdk\\build\\intermediates\\res\\merged\\release\\layout-sw550dp-large-v13\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\umengsocialsdk\\src\\main\\res\\layout-sw550dp-large\\umeng_socialize_oauth_dialog.xml"
+    }
+]

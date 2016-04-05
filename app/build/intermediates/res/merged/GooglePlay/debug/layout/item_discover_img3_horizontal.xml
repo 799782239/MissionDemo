@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 组件:3张横图 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <include layout="@layout/item_discover_theme_type" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <!-- 3张单品图 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/iv_left"
+                style="@style/MainImageContent"
+                android:layout_width="0dp"
+                android:layout_height="96dp"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/iv_mid"
+                style="@style/MainImageContent"
+                android:layout_width="0dp"
+                android:layout_height="96dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/iv_right"
+                style="@style/MainImageContent"
+                android:layout_width="0dp"
+                android:layout_height="96dp"
+                android:layout_marginLeft="2dp"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <!-- 标题 -->
+        <TextView
+            android:id="@+id/tv_title"
+            style="@style/MainTitle"
+            android:layout_marginTop="8dp"
+            android:text="标题" />
+        <!-- 内容 -->
+        <TextView
+            android:id="@+id/tv_description"
+            style="@style/MainContent"
+            android:layout_marginTop="8dp"
+            android:maxLines="4"
+            android:text="内容" />
+
+
+    </LinearLayout>
+
+    <include layout="@layout/include_bottom_collect_comment" />
+</LinearLayout>

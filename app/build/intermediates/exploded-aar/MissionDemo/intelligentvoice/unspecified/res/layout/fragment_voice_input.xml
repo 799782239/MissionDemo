@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/tv_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:text="你可以这样问我"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <com.tongban.corelib.widget.view.ChildListView
+        android:id="@+id/lv_topn_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/in_voice"
+        android:layout_below="@+id/tv_welcome"
+        android:layout_marginTop="48dp"
+        android:cacheColorHint="@null"
+        android:layoutAnimation="@anim/layout_anim_translate"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:listSelector="@color/transparent"
+        android:scrollbars="none" />
+
+    <include
+        android:id="@+id/in_voice"
+        layout="@layout/include_volume"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+
+</RelativeLayout>

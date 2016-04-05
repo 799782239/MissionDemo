@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\apilib\\build\\intermediates\\res\\merged\\release\\transition\\activity_fade.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\apilib\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\transition\\activity_fade.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\apilib\\build\\intermediates\\res\\merged\\release\\transition\\activity_slide.xml",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\apilib\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\transition\\activity_slide.xml"
+    }
+]

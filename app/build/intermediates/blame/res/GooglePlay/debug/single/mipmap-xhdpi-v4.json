@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_dir_choose.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_dir_choose.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_product_share.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_product_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\sky.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\sky.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_product_collected.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_product_collected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_collected.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_collected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_group_activity.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_group_activity.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_discover_search.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_discover_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_topic_collect_count.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_topic_collect_count.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_group_location.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_group_location.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_volume_changed_3.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_volume_changed_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait8.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait8.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\sun.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\sun.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_collect.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_collect.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_integral.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_integral.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_voice_pic.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_voice_pic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_group_settings.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_group_settings.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_private_chat.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_private_chat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_group_city.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_group_city.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_mic.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_clear_mtrl_alpha.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_go_search.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_go_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait1.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_my_settings.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_settings.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\buildings.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\buildings.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\bg_boy.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\bg_boy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_mic_inner_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_mic_inner_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait7.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait7.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_create.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_create.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_add_img_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add_img_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_volume_changed_2.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_volume_changed_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait9.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_group_age.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_group_age.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_new_msg_y.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_new_msg_y.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_closed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_closed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_del_all.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_del_all.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait6.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait6.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_wechat_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\mipmap-xhdpi-v4\\ic_wechat_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_volume_changed_4.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_volume_changed_4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_select.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_select.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_topic_voice.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_topic_voice.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_my_collect.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_collect.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_message_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_message_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_topic_history.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_topic_history.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_send.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_pic.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_pic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\rate_star_small_half_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\rate_star_small_half_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_volume_changed_1.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_volume_changed_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_home_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_home_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\bg_girl.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\bg_girl.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_home_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_home_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait3.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_voice.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_voice.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_add_img_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add_img_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_overflow.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_menu_overflow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_wechat_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\umengsocialsdk\\unspecified\\res\\mipmap-xhdpi-v4\\ic_wechat_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_poi_selected.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_poi_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_product_back.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_product_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\shadow_right.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\shadow_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_image.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_default_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\rate_star_small_off_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\rate_star_small_off_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_boy.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_boy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\shadow_left.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\shadow_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\rate_star_small_on_holo_dark.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\rate_star_small_on_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_volume_changed_0.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_volume_changed_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_main_indicator.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_main_indicator.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_group_life.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_group_life.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_volume_changed_5.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_volume_changed_5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_plane.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_plane.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait4.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_back.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_menu_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_topic_stop.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_topic_stop.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\shadow_bottom.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\shadow_bottom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_topic_play.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_topic_play.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_message_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_message_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_group_create.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_group_create.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_book_mark.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_book_mark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_product_collect.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_product_collect.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_group_label.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_group_label.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_pic_dir.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_pic_dir.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_extend_plus_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_extend_plus_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_mic_inner_normal.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_mic_inner_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_pic_selected.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_pic_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_my_topic.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_my_topic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_user.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_user.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_extend_plus_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_extend_plus_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_btn_speak.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\intelligentvoice\\unspecified\\res\\mipmap-xhdpi-v4\\ic_btn_speak.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait10.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait10.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_girl.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_girl.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_group_classmate.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_group_classmate.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait5.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_time.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_time.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_new_msg_x.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\exploded-aar\\MissionDemo\\corelib\\unspecified\\res\\mipmap-xhdpi-v4\\ic_new_msg_x.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_menu_search.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_default_portrait2.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_portrait2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MissionDemo\\app\\build\\intermediates\\res\\merged\\GooglePlay\\debug\\mipmap-xhdpi-v4\\ic_topic_comment_count.png",
+        "source": "D:\\AndroidStudioProjects\\MissionDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_topic_comment_count.png"
+    }
+]

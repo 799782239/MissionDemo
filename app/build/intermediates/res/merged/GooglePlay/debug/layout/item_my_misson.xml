@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="16dp">
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:id="@+id/mymission_success"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="26dp"
+        android:background="@color/colorLightBlue"
+        android:text="@string/mymission_accept" />
+
+    <android.support.v7.widget.CardView
+        android:layout_below="@+id/mymission_success"
+        android:id="@+id/mymission_cardview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="16dp"
+        android:elevation="2dp"
+        app:cardCornerRadius="10dp"
+        app:contentPadding="8dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp">
+
+            <TextView
+                android:id="@+id/mymission_item_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginLeft="16dp"
+                android:text="asdadawdasdasdddddddddddddddddddddwdasdawdasdasdawdasdaw" />
+
+            <ImageView
+                android:id="@+id/mymission_image"
+                android:layout_width="96dp"
+                android:layout_height="96dp"
+                android:layout_below="@+id/mymission_item_content"
+                android:layout_marginTop="16dp" />
+
+
+            <TextView
+                android:id="@+id/mymission_publisher"
+                style="@style/MainContent.Tips"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="8dp"
+                android:layout_below="@+id/mymission_image"
+                android:text="jiafei|22分钟前"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+    <com.tongban.corelib.widget.view.CircleImageView
+        android:id="@+id/iv_user_portrait"
+        style="@style/MainImagePortrait"
+        android:layout_alignLeft="@+id/mymission_cardview"
+        android:layout_alignTop="@+id/mymission_cardview"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="-24dp"
+        android:layout_marginTop="16dp"
+        android:elevation="3dp" />
+
+
+</RelativeLayout>

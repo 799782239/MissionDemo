@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MissionDemo.iml" filepath="$PROJECT_DIR$/MissionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apilib/apilib.iml" filepath="$PROJECT_DIR$/apilib/apilib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corelib/corelib.iml" filepath="$PROJECT_DIR$/corelib/corelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daogenerator/daogenerator.iml" filepath="$PROJECT_DIR$/daogenerator/daogenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imlib/imlib.iml" filepath="$PROJECT_DIR$/imlib/imlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intelligentvoice/intelligentvoice.iml" filepath="$PROJECT_DIR$/intelligentvoice/intelligentvoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mission/mission.iml" filepath="$PROJECT_DIR$/mission/mission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umengsocialsdk/umengsocialsdk.iml" filepath="$PROJECT_DIR$/umengsocialsdk/umengsocialsdk.iml" />
+    </modules>
+  </component>
+</project>

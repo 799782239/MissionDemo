@@ -1,0 +1,257 @@
+<resources>
+    <!-- 首页底部menu样式-->
+    <style name="MainBottomMenu">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:textColor">@color/selector_main_menu_text</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:textSize">8sp</item>
+    </style>
+    <!-- title-user 通用样式-->
+    <style name="MainTitle.User">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+    <!-- 大间距内容样式-->
+    <style name="MainContent.MaxSpacing">
+        <item name="android:lineSpacingExtra">10dp</item>
+    </style>
+    <!-- 无间距内容样式-->
+    <style name="MainContent.NoSpacing">
+        <item name="android:lineSpacingExtra">1dp</item>
+    </style>
+    <!-- small内容样式-->
+    <style name="MainContentSmall">
+        <item name="android:textColor">@color/normal_grey</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <!-- 内容图片样式-->
+    <style name="MainImageContent">
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:src">@mipmap/ic_default_image</item>
+    </style>
+    <!-- theme标签线-->
+    <style name="ThemeTipsLine">
+        <item name="android:layout_width">4dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">3dp</item>
+        <item name="android:layout_marginBottom">3dp</item>
+        <item name="android:background">@color/theme_red</item>
+    </style>
+
+    <style name="ThemeDetailsButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:background">@drawable/selector_corner_white_to_grey</item>
+        <item name="android:paddingLeft">32dp</item>
+        <item name="android:paddingRight">32dp</item>
+        <item name="android:text">@string/view_details</item>
+        <item name="android:textColor">@color/theme_red</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TopicCreateVoiceButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:background">@drawable/selector_corner_grey_to_grey</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:textColor">@color/theme_red</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TopicCreateVoiceButton.Small">
+        <item name="android:minWidth">56dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- 用户头像-->
+    <style name="MainImagePortrait">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:src">@mipmap/ic_default_portrait4</item>
+    </style>
+    <!-- toolBar的menu样式-->
+    <style name="MainToolBarMenu">
+        <item name="android:layout_width">?attr/actionBarSize</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:background">@drawable/selector_transparent_to_gray</item>
+    </style>
+    <!-- 聊天设置父容器样式-->
+    <style name="ChatSettingLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginTop">1dp</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/selector_white_to_gray</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+    <!--聊天设置左侧文本样式-->
+    <style name="ChatSettingLeftText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/main_brown</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <!--聊天设置右侧文本样式-->
+    <style name="ChatSettingRightText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:focusable">false</item>
+        <item name="android:clickable">false</item>
+        <item name="android:textColor">@color/normal_dark_grey</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+    </style>
+    <!--提示框样式-->
+    <style name="ProcessDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+
+    <!-- 用户信息父容器-->
+    <style name="UserInfoAttrParent">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:enabled">false</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <!-- 用户信息：粉丝、关注、话题相关-->
+    <style name="UserInfoAttr">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/normal_grey</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="UserInfoAttr.BottomText">
+        <item name="android:gravity">center_horizontal|top</item>
+    </style>
+
+    <style name="UserInfoAttr.TopText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:gravity">center_horizontal|bottom</item>
+    </style>
+
+    <style name="UserInfoAttrLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <!-- 个人中心item样式-->
+    <style name="UserCenterItem">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:background">@drawable/selector_white_to_gray</item>
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:textSize">12sp</item>
+
+    </style>
+
+    <!--粉丝、关注、话题相关-圆点提示-->
+    <style name="UserInfoBadge">
+        <item name="android:layout_width">8dp</item>
+        <item name="android:layout_height">8dp</item>
+        <item name="android:background">@drawable/shape_badge_white_bg</item>
+    </style>
+
+    <!-- 创建圈子文本的样式-->
+    <style name="CreateGroupTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/main_black</item>
+        <item name="android:textColorHint">@color/normal_grey</item>
+        <item name="android:textSize">14sp</item>
+
+    </style>
+
+    <style name="ClearEditTextStyle">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/main_brown</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+    </style>
+
+
+    <!-- 可点击文本样式-->
+    <style name="ClickTextViewStyle">
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/selector_click_text_color</item>
+    </style>
+
+    <!-- 通用按钮样式-->
+    <style name="CommonButtonStyle">
+        <item name="android:layout_height">56dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:enabled">false</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:background">?attr/colorPrimary</item>
+    </style>
+
+</resources>

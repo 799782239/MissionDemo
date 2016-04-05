@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.example.yanqijs.missiondemo.JudgeActivity">
+
+    <RelativeLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/app_bar_height"
+        android:elevation="8dp"
+        android:fitsSystemWindows="true">
+
+        <include
+            android:id="@+id/inc_toolbar"
+            layout="@layout/inc_toolbar" />
+
+        <ImageView
+            android:id="@+id/judge_touxiang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/inc_toolbar"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:background="@mipmap/touxiang" />
+
+        <TextView
+            android:id="@+id/judge_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/judge_touxiang"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:text="@string/name"
+            android:textColor="@color/cardview_dark_background" />
+
+        <RatingBar
+            android:id="@+id/judge_ratingbar"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/judge_name"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="4dp"
+            android:max="5"
+            android:rating="4.5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/judge_ratingbar"
+            android:layout_marginLeft="4dp"
+            android:layout_toRightOf="@+id/judge_ratingbar"
+            android:background="@drawable/mark"
+            android:text=" 4.5 " />
+    </RelativeLayout>
+
+    <RatingBar
+        android:id="@+id/judge_user_rating"
+        android:rating="5"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/app_bar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp" />
+
+    <EditText
+        android:id="@+id/judge_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/judge_user_rating"
+        android:layout_alignRight="@+id/judge_user_rating"
+        android:layout_below="@+id/judge_user_rating"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/mission"
+        android:gravity="left"
+        android:textColor="@color/cardview_dark_background" />
+
+    <FrameLayout
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/judge_edit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/mission_button"
+        android:elevation="1dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="32dp"
+            android:text="@string/judge_publish"
+            android:textColor="@color/colorWhite" />
+    </FrameLayout>
+</RelativeLayout>

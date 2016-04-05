@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants">
+
+    <RelativeLayout
+        android:id="@+id/rl_group_item"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:background="@drawable/selector_white_to_gray">
+
+        <FrameLayout
+            android:id="@+id/fl_group_portrait"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:background="@drawable/shape_group_icon_pressed_red">
+
+            <com.tongban.corelib.widget.view.CircleImageView
+                android:id="@+id/iv_group_portrait"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="1dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/ic_group_create" />
+        </FrameLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/fl_group_portrait"
+            android:layout_alignTop="@+id/fl_group_portrait"
+            android:layout_toLeftOf="@+id/btn_join"
+            android:layout_toRightOf="@+id/fl_group_portrait"
+            android:gravity="center_vertical">
+            <!--群名称-->
+            <TextView
+                android:id="@+id/tv_group_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="群名称"
+                android:textColor="@color/main_black"
+                android:textSize="14sp" />
+            <!--群标签-->
+            <TextView
+                android:id="@+id/tv_group_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_group_name"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/shape_corners_stroke_yellow"
+                android:paddingBottom="2dp"
+                android:paddingLeft="4dp"
+                android:paddingRight="4dp"
+                android:paddingTop="2dp"
+                android:text="标签"
+                android:textSize="8sp" />
+            <!-- 群描述-->
+            <TextView
+                android:id="@+id/tv_group_introduce"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/tv_group_status"
+                android:layout_alignTop="@+id/tv_group_status"
+                android:layout_toRightOf="@+id/tv_group_status"
+                android:gravity="center_vertical"
+                android:paddingLeft="4dp"
+                android:singleLine="true"
+                android:textColor="@color/normal_grey"
+                android:textSize="12sp"
+                android:visibility="gone" />
+        </RelativeLayout>
+        <!--加入/已加入-->
+        <Button
+            android:id="@+id/btn_join"
+            android:layout_width="48dp"
+            android:layout_height="24dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/selector_join_btn_bg"
+            android:text="@string/join"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+</RelativeLayout>
+
+
+
+

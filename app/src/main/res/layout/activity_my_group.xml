@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_toolbar" />
+
+    <com.tongban.corelib.widget.view.LoadMoreListView
+        android:id="@+id/lv_my_group_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/weak_grey"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@color/normal_light_grey"
+        android:dividerHeight="1dp"
+        android:scrollbars="none" />
+
+</LinearLayout>

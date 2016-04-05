@@ -1,0 +1,46 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    sourceSets {
+        main {
+            aidl.srcDirs = ['src/core/java', 'src/conversation/java', 'src/voip/java']
+            manifest.srcFile 'src/core/AndroidManifest.xml'
+            java.srcDirs = ['src/core/java', 'src/conversation/java', 'src/voip/java', 'src/conversation/gen-database']
+            resources.srcDirs = ['src/core/java', 'src/conversation/java', 'src/voip/java']
+            aidl.srcDirs = ['src/core/java', 'src/conversation/java', 'src/voip/java']
+            renderscript.srcDirs = ['src/core/java', 'src/conversation/java', 'src/voip/java']
+            res.srcDirs = ['src/core/res', 'src/conversation/res', 'src/voip/res']
+            assets.srcDirs = ['src/core/assets', 'src/conversation/assets', 'src/voip/assets']
+            jni.srcDirs = []
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile('de.keyboardsurfer.android.widget:crouton:1.8.4@aar') {
+        exclude group: 'com.google.android', module: 'support-v4'
+    }
+    compile 'de.greenrobot:eventbus:2.4.0'
+    compile 'com.github.chrisbanes.photoview:library:1.2.3'
+    compile files('libs/Rong_IMLib_v2_2_1.jar')
+    compile 'com.android.support:support-v4:23.0.1'
+    compile 'com.github.bumptech.glide:glide:3.5.2'
+    compile project(':corelib')
+}

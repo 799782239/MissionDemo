@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="voice_answer_error_list">
+        <item>我没有听清你说什么</item>
+        <item>我不太懂你的意思</item>
+        <item>找呀找呀找</item>
+        <item>我还需要努力学习</item>
+        <item>sorry!</item>
+    </array>
+    <array name="voice_answer_list">
+        <item>努力的为你找到了%1$s条数据！</item>
+        <item>有奖励吗？</item>
+        <item>没有我不知道的！</item>
+        <item>找到了%1$s条数据,我棒吗？</item>
+        <item>发现了%1$s条数据,我厉害吗？</item>
+        <item>找到一个好朋友</item>
+    </array>
+    <string name="app_name">voice lib</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="FABBackground" parent="Widget.Design.FloatingActionButton">
+        <item name="android:src">@mipmap/ic_mic</item>
+        <item name="backgroundTint">@color/normal_mic_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MainContent">
+        <item name="android:textColor">@color/normal_dark_grey</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MainContent.Tips">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/normal_grey</item>
+        <item name="android:lineSpacingExtra">1dp</item>
+    </style>
+    <style name="MainTitle">
+        <item name="android:textColor">@color/main_black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

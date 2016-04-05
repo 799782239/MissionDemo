@@ -1,0 +1,139 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <!-- 手机号-->
+    <RelativeLayout
+        android:id="@+id/rl_phone_num"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_below="@+id/toolbar">
+
+        <TextView
+            android:id="@+id/tv_phone_text"
+            android:layout_width="64dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:paddingLeft="16dp"
+            android:text="@string/phone_num"
+            android:textColor="@color/normal_grey" />
+
+        <com.tongban.corelib.widget.view.ClearEditText
+            android:id="@+id/et_phone_num"
+            style="@style/ClearEditTextStyle"
+            android:layout_toRightOf="@+id/tv_phone_text"
+            android:inputType="number"
+            android:maxLength="11" />
+
+        <View
+            style="@style/HorizontalLine"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <!--密码-->
+    <RelativeLayout
+        android:id="@+id/rl_pwd_parent"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_below="@+id/rl_phone_num">
+
+        <TextView
+            android:id="@+id/tv_pwd_text"
+            android:layout_width="64dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:paddingLeft="16dp"
+            android:text="@string/pwd"
+            android:textColor="@color/normal_grey" />
+
+        <com.tongban.corelib.widget.view.ClearEditText
+            android:id="@+id/et_pwd"
+            style="@style/ClearEditTextStyle"
+            android:layout_toRightOf="@+id/tv_pwd_text"
+            android:hint="6-24位数字或字母"
+            android:inputType="textPassword"
+            android:maxLength="24"
+            android:textColorHint="@color/normal_grey" />
+
+        <View
+            style="@style/HorizontalLine"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <!--验证码-->
+    <RelativeLayout
+        android:id="@+id/rl_verify_code"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_below="@+id/rl_pwd_parent"
+        android:orientation="horizontal">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_toLeftOf="@+id/btn_verify_code">
+
+            <TextView
+                android:id="@+id/tv_verify_text"
+                android:layout_width="64dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:paddingLeft="16dp"
+                android:text="@string/verify_code"
+                android:textColor="@color/normal_grey" />
+
+            <com.tongban.corelib.widget.view.ClearEditText
+                android:id="@+id/et_verify_code"
+                style="@style/ClearEditTextStyle"
+                android:layout_toRightOf="@+id/tv_verify_text"
+                android:inputType="number"
+                android:maxLength="6" />
+
+        </RelativeLayout>
+
+
+        <Button
+            android:id="@+id/btn_verify_code"
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="16dp"
+            android:background="@null"
+            android:clickable="true"
+            android:enabled="false"
+            android:focusable="true"
+            android:gravity="center"
+            android:text="@string/get_verify_code"
+            android:textColor="@color/selector_click_text_color" />
+
+        <View
+            style="@style/HorizontalLine"
+            android:layout_alignParentBottom="true" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_agree"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_below="@+id/rl_verify_code"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:text="注册即表示您阅读并同意《用户协议》"
+        android:textColor="@color/normal_grey"
+        android:textSize="12sp" />
+
+    <com.dd.CircularProgressButton
+        android:id="@+id/btn_register"
+        style="@style/CommonButtonStyle"
+        app:cpb_colorIndicator="@drawable/idle_state_selector"
+        app:cpb_colorIndicatorBackground="@color/white"
+        app:cpb_colorProgress="@drawable/idle_state_selector"
+        app:cpb_selectorIdle="@drawable/idle_state_selector"
+        app:cpb_textIdle="@string/register" />
+
+</RelativeLayout>

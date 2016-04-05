@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 组件:仅有一张图片 -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <include layout="@layout/item_discover_theme_type"/>
+
+    <ImageView
+        android:id="@+id/iv_img"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_default_image"/>
+</LinearLayout>

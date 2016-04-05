@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\AndroidStudioProjects\MissionDemo\apilib\src\main\res"/><source path="D:\AndroidStudioProjects\MissionDemo\apilib\build\generated\res\rs\release"/><source path="D:\AndroidStudioProjects\MissionDemo\apilib\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="D:\AndroidStudioProjects\MissionDemo\apilib\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\AndroidStudioProjects\MissionDemo\apilib\src\main\res"><file path="D:\AndroidStudioProjects\MissionDemo\apilib\src\main\res\values\arrays.xml" qualifiers=""><array name="error_message">
+        <item>服务器睡着了</item>
+        <item>不好了,服务器被妖怪抓走了</item>
+        <item>服务器去泡妞了</item>
+        <item>快看，有飞机</item>
+        <item>股市又跌了，服务器不想写代码了</item>
+        <item>再等一会吧，服务器要给你转100万</item>
+        <item>点我刷新</item>
+        <item>戳我!戳我!</item>
+        <item>您操作的太频繁了!</item>
+    </array></file><file path="D:\AndroidStudioProjects\MissionDemo\apilib\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">apilib</string></file></source><source path="D:\AndroidStudioProjects\MissionDemo\apilib\build\generated\res\rs\release"/><source path="D:\AndroidStudioProjects\MissionDemo\apilib\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="D:\AndroidStudioProjects\MissionDemo\apilib\src\release\res"/></dataSet><mergedItems/></merger>
