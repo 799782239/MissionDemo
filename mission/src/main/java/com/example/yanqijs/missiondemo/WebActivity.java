@@ -9,5 +9,11 @@ public class WebActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_web);
+        int a=1;
+        int b=1;
+        int asdasd;
+        int adasdasd;
+        adasdasd=11;
+
     }
 }
