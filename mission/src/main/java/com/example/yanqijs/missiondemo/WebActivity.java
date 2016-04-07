@@ -12,5 +12,8 @@ public class WebActivity extends AppCompatActivity {
         int a=1;
         int b=1;
         int asdasd;
+        int adasdasd;
+        adasdasd=11;
+
     }
 }
