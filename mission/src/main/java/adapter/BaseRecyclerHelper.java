@@ -52,9 +52,16 @@ public class BaseRecyclerHelper extends RecyclerView.ViewHolder implements View.
         view.setOnClickListener(listener);
     }
 
+    public void onClick(int viewId) {
+        if (mRecyclerImp != null) {
+            View view = getView(viewId);
+
+            mRecyclerImp.OnItemClick(view, getAdapterPosition());
+        }
+    }
+
     @Override
     public void onClick(View v) {
-        if (mRecyclerImp != null)
-            mRecyclerImp.OnItemClick(v, getAdapterPosition());
+        mRecyclerImp.OnItemClick(v, getAdapterPosition());
     }
 }

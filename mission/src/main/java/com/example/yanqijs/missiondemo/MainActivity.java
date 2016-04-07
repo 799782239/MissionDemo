@@ -12,6 +12,7 @@ import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
@@ -36,7 +37,7 @@ import single.Mission;
 import single.User;
 
 
-public class MainActivity extends BaseActivity {
+public class MainActivity extends BaseActivity implements RecyclerImp {
     private DrawerLayout drawerLayout;
     private FloatingActionButton fab;
     private RecyclerView recyclerView;
@@ -63,7 +64,6 @@ public class MainActivity extends BaseActivity {
                 Toast.makeText(getApplicationContext(), "" + position, Toast.LENGTH_SHORT).show();
             }
         });
-        RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(this);
         //设置监听
         mRecyclerAdapter.setOnClickListener(new CardClick(this));
 //-----------------------------------
@@ -91,7 +91,8 @@ public class MainActivity extends BaseActivity {
         LinearLayoutManager mLayoutManager = new LinearLayoutManager(this);
         //默认为Ver纵向的
 //        mLayoutManager.setOrientation(LinearLayoutManager.HORIZONTAL);
-        recyclerView.setLayoutManager(mLayoutManager);
+//        recyclerView.setLayoutManager(mLayoutManager);
+        recyclerView.setLayoutManager(new StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL));
     }
 
     private void initView() {
@@ -183,6 +184,19 @@ public class MainActivity extends BaseActivity {
         mRecyclerAdapter.addAll(Mission.getInstance());
     }
 
+    /**
+     * adapter的item点击事件
+     *
+     * @param view
+     * @param position 点击item的postion
+     */
+    @Override
+    public void OnItemClick(View view, int position) {
+        Intent intent = new Intent(MainActivity.this, MissionActivity.class);
+        intent.putExtra("postion", position);
+        startActivity(intent);
+    }
+
     public class MyThread extends Thread {
         @Override
         public void run() {
@@ -202,6 +216,10 @@ public class MainActivity extends BaseActivity {
         Log.i("jsobj", object + "");
     }
 
+
+    /**
+     * 管理adapter的点击事件
+     */
     class CardClick implements View.OnClickListener {
         Context context;
 
@@ -214,11 +232,6 @@ public class MainActivity extends BaseActivity {
             switch (v.getId()) {
                 case R.id.mymission_item_content:
                     Toast.makeText(context, "a", Toast.LENGTH_LONG).show();
-                    break;
-                case R.id.mymission_cardview:
-                    Intent intent = new Intent(MainActivity.this, MissionActivity.class);
-                    intent.putExtra("postion", 0);
-                    startActivity(intent);
                     break;
             }
         }
