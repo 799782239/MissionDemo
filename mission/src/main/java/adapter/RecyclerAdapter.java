@@ -45,6 +45,7 @@ public class RecyclerAdapter extends BaseRecyclerAdapter<MissionData> {
         helper.setText(R.id.mymission_item_content, item.getContent());
         helper.setOnClick(R.id.mymission_item_content, onClickListener);
         helper.setVisible(R.id.mymission_success, View.GONE);
+//        helper.onClick(R.id.mymission_cardview);
 
     }
 
